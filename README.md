@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3945-digit-frequency-score](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-watering-plants](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2079-watering-plants) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
