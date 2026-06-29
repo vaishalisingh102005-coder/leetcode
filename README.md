@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0069-sqrtx) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0069-sqrtx) |
 | [3945-digit-frequency-score](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
