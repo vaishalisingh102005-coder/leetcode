@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2079-watering-plants](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2079-watering-plants) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0069-sqrtx) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3945-digit-frequency-score](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
