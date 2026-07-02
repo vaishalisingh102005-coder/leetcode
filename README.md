@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2079-watering-plants](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2079-watering-plants) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0724-find-pivot-index) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
