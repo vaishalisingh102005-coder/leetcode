@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0162-find-peak-element) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
