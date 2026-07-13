@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
