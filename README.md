@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0069-sqrtx) |
+| [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
