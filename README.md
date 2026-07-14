@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -167,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
