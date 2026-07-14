@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
