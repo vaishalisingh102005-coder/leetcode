@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0441-arranging-coins) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1688-count-of-matches-in-tournament) |
