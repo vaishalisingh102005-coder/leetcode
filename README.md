@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1598-crawler-log-folder) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
