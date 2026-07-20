@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
