@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
