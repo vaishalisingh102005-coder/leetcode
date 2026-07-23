@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2079-watering-plants](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2079-watering-plants) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1768-merge-strings-alternately) |
