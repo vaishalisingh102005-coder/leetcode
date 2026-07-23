@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
