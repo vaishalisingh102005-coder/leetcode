@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
