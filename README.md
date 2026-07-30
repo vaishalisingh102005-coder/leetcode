@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3921-score-validator](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3921-score-validator) |
 ## Math
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3894-traffic-signal-color](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3921-score-validator) |
 ## Stack
 |  |
 | ------- |
