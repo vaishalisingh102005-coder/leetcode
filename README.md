@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0844-backspace-string-compare) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Brainteaser
