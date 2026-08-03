@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1323-maximum-69-number) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 ## String
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -339,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
