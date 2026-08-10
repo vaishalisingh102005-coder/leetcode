@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0844-backspace-string-compare) |
@@ -368,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
