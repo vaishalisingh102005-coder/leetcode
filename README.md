@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Quicksort
 |  |
 | ------- |
