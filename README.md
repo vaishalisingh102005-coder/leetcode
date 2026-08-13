@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0997-find-the-town-judge](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0997-find-the-town-judge) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
