@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0997-find-the-town-judge](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0997-find-the-town-judge) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [1768-merge-strings-alternately](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
