@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0997-find-the-town-judge](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0997-find-the-town-judge) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -344,13 +347,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
@@ -388,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sliding Window
 |  |
@@ -424,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0997-find-the-town-judge) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
