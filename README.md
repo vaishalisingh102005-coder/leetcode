@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0342-power-of-four) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
