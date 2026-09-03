@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1903-largest-odd-number-in-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1903-largest-odd-number-in-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
