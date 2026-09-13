@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0948-bag-of-tokens) |
 | [1768-merge-strings-alternately](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -488,4 +489,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
