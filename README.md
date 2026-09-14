@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -490,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
