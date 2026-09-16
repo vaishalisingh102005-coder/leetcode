@@ -495,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
