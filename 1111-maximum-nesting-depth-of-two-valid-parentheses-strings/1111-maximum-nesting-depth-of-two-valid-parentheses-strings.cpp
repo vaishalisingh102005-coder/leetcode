@@ -1,0 +1,23 @@
+class Solution {
+public:
+    vector<int> maxDepthAfterSplit(string seq) {
+        //minimise the max depth
+        //odd depth-A
+        //even depth-B
+        vector<int>ans;
+        int depth=0;
+        for(int i=0;i<seq.size();i++){
+            if(seq[i]=='('){
+                depth++;
+                if(depth%2==0) ans.push_back(1);
+                else ans.push_back(0);
+            }
+            else {
+                depth--;
+                if(depth%2==0) ans.push_back(0);
+                else ans.push_back(1);
+                
+            }}
+            return ans;
+    }
+};
