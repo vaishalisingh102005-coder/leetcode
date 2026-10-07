@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1598-crawler-log-folder) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1903-largest-odd-number-in-string) |
