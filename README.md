@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3894-traffic-signal-color](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3921-score-validator) |
+| [3941-password-strength](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
