@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
