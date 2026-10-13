@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
