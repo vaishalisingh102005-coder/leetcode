@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3894-traffic-signal-color](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3921-score-validator) |
+| [3931-check-adjacent-digit-differences](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3941-password-strength) |
 ## Stack
 |  |
