@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3941-password-strength) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3894-traffic-signal-color](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3894-traffic-signal-color) |
