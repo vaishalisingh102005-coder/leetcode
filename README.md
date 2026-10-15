@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3731-find-missing-elements) |
@@ -552,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
