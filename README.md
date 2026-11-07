@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Greedy
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0938-range-sum-of-bst) |
