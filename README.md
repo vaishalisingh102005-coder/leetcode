@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0283-move-zeroes) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -682,5 +686,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
