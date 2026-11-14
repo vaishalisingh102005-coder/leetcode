@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Minimax
 |  |
 | ------- |
