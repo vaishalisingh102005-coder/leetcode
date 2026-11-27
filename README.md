@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1267-count-servers-that-communicate](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -705,4 +708,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0547-number-of-provinces) |
 | [1267-count-servers-that-communicate](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
