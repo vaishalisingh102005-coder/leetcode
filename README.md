@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vaishalisingh102005-coder/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
